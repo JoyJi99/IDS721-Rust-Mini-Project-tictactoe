@@ -1,4 +1,4 @@
-# rust tic-tac-toe
+# Rust Tic-Tac-Toe
 ![Screenshot](./img/screenshot.png)
 
 ## Build
